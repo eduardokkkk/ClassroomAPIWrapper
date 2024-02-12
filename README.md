@@ -1,2 +1,2 @@
 # ClassroomAPIWrapper
-Wrapper object for the Google Classroom API.
+Simple wrapper object for the Google Classroom API.
